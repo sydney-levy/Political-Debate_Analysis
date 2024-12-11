@@ -1,8 +1,6 @@
 # LLM as Presidential Candidate: Analyzing Shifts in Political Rhetoric Over Time
-## 6.8610 Project Code & Documentation
 
 ## Data
-
 Data used for this project can be found in the following Google Drive folder: https://drive.google.com/drive/folders/1N9eaog0ySz0lvh6EruWv-EyUq83HPHCb?usp=sharing
 
 - original_data
